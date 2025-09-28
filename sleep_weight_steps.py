@@ -46,7 +46,7 @@ axes[0].set_title('🔄 BIO-MASS FLUCTUATION PROTOCOL',
                  fontsize=14, color='#00FF41', fontweight='bold')
 axes[0].set_xlabel('TIMELINE', color='white')
 axes[0].set_ylabel('MASS (kg)', color='white')
-axes[0].tick_params(colors='white')
+axes[0].tick_params(colors='white', rotation=45)  # چرخش 45 درجه برای تاریخ‌ها
 axes[0].grid(True, alpha=0.3)
 axes[0].set_facecolor('black')
 
@@ -72,7 +72,7 @@ cbar = plt.colorbar(scatter, ax=axes[1])
 cbar.set_label('KINETIC ENERGY OUTPUT', color='white')
 cbar.ax.tick_params(colors='white')
 
-plt.tight_layout()
+plt.tight_layout(pad=3.0)
 plt.suptitle('⚡ CYBERNETIC HEALTH DASHBOARD v2.0.3', 
              fontsize=16, color='#00FFFF', fontweight='bold', y=1.02)
 plt.show()
