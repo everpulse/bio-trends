@@ -1,6 +1,6 @@
 # 🧬 Bio-Trends: Journey to Fight Aging with AI
 
-> مسیر یادگیری من از صفر تا استفاده از هوش مصنوعی برای تحقیق روی ضدپیری
+My learning journey from zero to using artificial intelligence for anti-aging research
 
 ## 📖 این Repo چیه؟
 
