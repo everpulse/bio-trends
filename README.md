@@ -2,31 +2,35 @@
 
 My learning journey from zero to using artificial intelligence for anti-aging research
 
-## 📖 این Repo چیه؟
+## 📖 What is this repo?
 
-یک مسیر یادگیری ساختاریافته و پروژه‌محور برای:
-- یادگیری Machine Learning و Deep Learning
-- کار با داده‌های زیستی و پزشکی
-- تحقیق در حوزه longevity و anti-aging
+A structured, project-based learning path for:
+- Learning Machine Learning and Deep Learning
+- Working with biological and medical data
+- Conducting research in longevity and anti-aging
+## 🎯 Where am I right now?
 
-## 🎯 الان کجام؟
 
-→ **ببین:** [`00-ROADMAP/current-phase.md`](00-ROADMAP/current-phase.md)
+→ **see:** [`00-ROADMAP/current-phase.md`](00-ROADMAP/current-phase.md)
 
-## 📋 قدم بعدی چیه؟
+## 📋 What’s the next step?
 
-→ **ببین:** [`00-ROADMAP/next-steps.md`](00-ROADMAP/next-steps.md)
 
-## 📚 راهنماها
+→ **see:** [`00-ROADMAP/next-steps.md`](00-ROADMAP/next-steps.md)
 
-- [چطوری شروع کنم؟](01-GUIDES/how-to-start.md)
-- [مشکل دارم!](01-GUIDES/debugging-guide.md) (به زودی)
+## 📚 Guides
 
-## 📊 پیشرفت من
 
-→ **ببین:** [`02-LOGS/week-01.md`](02-LOGS/week-01.md)
+- [How do I start?](01-GUIDES/how-to-start.md)
+- [I’m having trouble!](01-GUIDES/debugging-guide.md)
 
-## 🗂️ ساختار Repo
+## 📊 My progress
+
+
+→ **see:** [`02-LOGS/week-01.md`](02-LOGS/week-01.md)
+
+## 🗂️ Repo Structure
+
 ```
 bio-trends/
 ├── 00-ROADMAP/        # نقشه کلی و وضعیت فعلی
@@ -36,34 +40,27 @@ bio-trends/
 └── projects/          # پروژه‌های واقعی (به زودی)
 ```
 
-## 🚀 پروژه‌های برنامه‌ریزی شده
+## 🚀 Planned Projects
 
-1. **Health Data Analyzer** - تحلیل داده‌های سلامت شخصی
-2. **Disease Classifier** - کلاسیفای بیماری‌های مرتبط با سن
-3. **Biological Age Predictor** - پیش‌بینی سن بیولوژیک
-4. **Cell Image Analysis** - تحلیل تصاویر میکروسکوپی
-5. **Longevity Predictor** - مدل پیش‌بینی طول عمر
-6. **Anti-Aging Recommender** - سیستم توصیه مداخلات
+1. **Health Data Analyzer** – Personal health data analysis
+2. **Disease Classifier** – Classification of age-related diseases
+3. **Biological Age Predictor** – Biological age prediction
+4. **Cell Image Analysis** – Microscopic image analysis
+5. **Longevity Predictor** – Lifespan prediction model
+6. **Anti-Aging Recommender** – Intervention recommendation system
 
-## 💡 فلسفه این Repo
+## 💡 Philosophy of this Repo
 
-- **Self-Documenting:** همه چیز مستند است، حتی وقتی من نیستم
-- **Progressive:** از ساده به پیچیده، قدم‌به‌قدم
-- **Practical:** همه چیز پروژه‌محور و کاربردی
-- **Open:** همه می‌تونند ببینند و یاد بگیرند
-
----
-
-**Last Update:** 2025-01-16  
-**Status:** 🔨 در حال ساخت
-```
+* **Self-Documenting:** Everything is documented, even when I’m not around
+* **Progressive:** Step-by-step, from simple to complex
+* **Practical:** All project-based and hands-on
+* **Open:** Everyone can view and learn
 
 ---
 
-## ✅ قدم 3: یک .gitignore درست کن
+## ✅ Step 3: Create a .gitignore file
 
-فایل `.gitignore` رو Edit کن یا بساز:
-```
+Edit or create the .gitignore file:```
 # Python
 __pycache__/
 *.py[cod]
