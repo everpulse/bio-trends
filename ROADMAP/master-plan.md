@@ -1,21 +1,22 @@
-# 🧬 Master Plan: از صفر تا AI در خدمت Anti-Aging
+# 🧬 Master Plan: From Zero to AI for Anti-Aging
 
-## مرحله فعلی
-**Phase 0:** آماده‌سازی و یادگیری پایه (همین الان اینجاییم)
+## Current Stage
+**Phase 0:** Preparation and Basic Learning
 
-## پروژه‌های اصلی
+## Main Projects
 
-### فاز 1: پایه (ماه 1-2)
-- [ ] پروژه 1: Health Data Analyzer
-- [ ] پروژه 2: Disease Classifier
 
-### فاز 2: یادگیری عمیق (ماه 3-4)
-- [ ] پروژه 3: Biological Age Predictor
-- [ ] پروژه 4: Cell Image Analysis
+### Phase 1: Basics
+- [ ] Project 1: Health Data Analyzer
+- [ ] Project 2: Disease Classifier
 
-### فاز 3: تخصصی (ماه 5-6)
-- [ ] پروژه 5: Longevity Predictor
-- [ ] پروژه 6: Anti-Aging Recommender
+### Phase 2: Deep Learning
+- [ ] Project 3: Biological Age Predictor
+- [ ] Project 4: Cell Image Analysis
 
-## هدف نهایی
-کمک به تحقیق و درمان پیری با Machine Learning
+### Phase 3: Advanced/Specialized
+- [ ] Project 5: Longevity Predictor
+- [ ] Project 6: Anti-Aging Recommender
+
+## Ultimate Goal
+Support research and treatment of aging using Machine Learning
