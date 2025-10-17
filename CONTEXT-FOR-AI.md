@@ -1,23 +1,23 @@
-# 🤖 Context برای کمک‌گیری از AI
+# 🤖 Context for Getting Help from AI
 
-## من کی‌ام؟
-- هدف: یادگیری ML برای تحقیق Anti-Aging
-- سطح: مبتدی در ML
-- زبان برنامه‌نویسی: Python
+## Who Am I?
+- Goal: Learn ML for Anti-Aging research
+- Level: Beginner in ML
+- Programming Language: Python
 
-## پروژه اصلی
+## Main Project
 - Repo: github.com/[username]/bio-trends
-- ساختار: چند فاز از ساده به پیشرفته
+- Structure: Multiple phases from simple to advanced
 
-## الان کجام؟
-- تاریخ: 2025-01-16
-- فاز: 0 (آماده‌سازی)
-- آخرین کار: ساخت ساختار اصلی repo
+## Where Am I Now?
+- Date:
+- Phase:
+- Last Task:
 
-## چی می‌خوام؟
-[وقتی چت جدید باز کردی، اینجا مشکلت رو بنویس]
+## What Do I Want?
+[When starting a new chat, write your current problem here]
 
 ---
 
-**نکته:** این فایل رو هر وقت گیر کردی و چت جدید باز کردی، 
-کپی کن و بگو "سلام، من این پروژه رو دارم، الان [مشکل] دارم"
+Note: Each time you get stuck and start a new chat,
+copy this file and say: "Hi, I’m working on this project, and right now I’m facing [problem]"
