@@ -6,7 +6,7 @@
 - Programming Language: Python
 
 ## Main Project
-- Repo: github.com/[everpulse]/bio-trends
+- Repo: github.com/everpulse/bio-trends
 - Structure: Multiple phases from simple to advanced
 
 ## Where Am I Now?
